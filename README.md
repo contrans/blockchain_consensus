@@ -1,5 +1,5 @@
 # blockchain_consensus
-This is the code for the "Blockchain Consensus Algorithms and Artificial Intelligence" by Siraj Raval on Youtube
+This is the code for the "Blockchain Consensus Algorithms and Artificial Intelligence" by Siraj Raval on Youtube.
 
 ## Overview
 
